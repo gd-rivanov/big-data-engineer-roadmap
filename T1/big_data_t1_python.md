@@ -5,36 +5,34 @@
 -  listening
 -  writing
 
+
 ## Client Communication 
 -  daily status
 -  client interview
 -  tech discussion (with mentor)
 
+
 ## Agile
--  process contribution
 -  kanban vs scrum
 -  active participation
 
+
 ## Workflow Management
-- Experience with any orchestrator (Airflow/ Azkaban / NiFi / cron etc )
-- (nice to have) Airflow (DAG, architecture, XCom)
+- Basic experience with any orchestrator (Airflow/ Azkaban / NiFi / cron etc )
+  
   
 ## Issue Tracking
 -  Understanding of typical workflow of issue
 -  Create UserStory (with mentor)
 
+
 ## VCS
--  Code review
 -  Branch management
 -  Git
 
 
 ## Data Warehouse
 ### Architecture
-- Dimensional modelling
-- data layers (raw/stage/gold)
-- architecture variance
-- DataLake vs DataWarehouse vs Database
 - CAP theorem
 
 ### Database fundamentals
@@ -44,12 +42,12 @@
 
 
 ## Big Data
-- Batch vs streaming processing
+- Batch vs streaming processing (basic concepts)
 - Distributed storage (HDFS, MinIO etc)  
 - Distributed calculation and engines
-  - MapReduce pattern theory
+  - MapReduce concept
   - Experience with any engine (Spark/Flume/Presto/HiveOnTez/Dremio etc) 
-- (nice to have) Experience with distributed queue (Kafka/ Kinesis/ Streams etc)
+- (nice to have) Experience with queues (Kafka/ Kinesis/ Streams / RabbitMQ etc)
 - Notebooks (Jupiter/ Zeppelin)
 
 
@@ -62,8 +60,11 @@
   - Shell scripting (Bash)
   - Text editors (vim etc)
   - Work with remote instances (ssh/scp/screen etc)
+- Refactoring
+- Working with IDE (PyCharm)  
   
-### JVM (theory)
+### JVM background (theory) (nice to have)
+- Packaging/dependencies/repositories (maven/sbt/gradle)
 
 ### Python
 - Python core (data types, collections etc)
@@ -75,3 +76,11 @@
 
 ### Testing
 - Unit tests
+- Test life cycle
+
+## Clouds (nice to have) 
+- Cloud certification (recommended)
+- DataWarehouse design in clouds
+- DataLake design in clouds
+- Workflow orchestration
+- SDK/API and other integrations with DBs/clouds

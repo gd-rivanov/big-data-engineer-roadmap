@@ -11,6 +11,7 @@
 ## Client communication 
 ### drive technical discussions with a client (optional)
 
+## Start new projects/accounts
 
 # Big Data Tech Lead
 ## Leadership
@@ -27,3 +28,5 @@
 ## Architecture
 ### Design final architecture of solution 
 ### Be responsible for taking technical decisions
+
+## Start new projects/accounts

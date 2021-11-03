@@ -1,7 +1,5 @@
 # Big data T2(Scala)
 
-# Big data T2 (Python)
-
 ## English
 -  intermediate
 -  speaking 
